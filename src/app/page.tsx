@@ -6,8 +6,8 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           src="tic-tac-toe.svg"
-          width={500}
-          height={500}
+          width={256}
+          height={256}
           alt="Tic Tac Toe Icon"
         />
       </main>
